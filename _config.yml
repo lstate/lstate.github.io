@@ -23,6 +23,7 @@ email: laura.state@di.unipi.it
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Laura State.
 url: "https://lstate.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
 
 # Build settings
 theme: null
