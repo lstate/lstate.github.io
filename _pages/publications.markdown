@@ -26,10 +26,12 @@ The manuscript can be accessed [here](http://ceur-ws.org/Vol-2970/meepaper1.pdf)
 Laura State, Pau Vilimelis Aceituno
 
 
-## Forthcoming
+## Journals
 
 -- *Explaining Short Text Classification with Diverse Synthetic Exemplars and Counter-Exemplars* \\
 Orestis Lampridis, Laura State, Riccardo Guidotti, Salvatore Ruggieri
+
+The paper can be accessed [here](https://rdcu.be/cNnnR).
 
 
 ## Others
