@@ -34,6 +34,14 @@ Orestis Lampridis, Laura State, Riccardo Guidotti, Salvatore Ruggieri
 The paper can be accessed [here](https://rdcu.be/cNnnR).
 
 
+## Forthcoming
+
+-- "Constructing Meaningful Explanations: Logic-based Approaches" \\
+Laura State
+
+Abstract, to appear in the proceedings of AIES 2022
+
+
 ## Other
 
 -- *Training Delays in Spiking Neural Networks* \\
