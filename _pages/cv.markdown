@@ -26,6 +26,9 @@ University of Rostock, Germany
 *Marie Skłodowska-Curie Early Stage Researcher in the NoBIAS ITN (Nov 2020 - present)* \\
 KDD Lab, University of Pisa, Italy
 
+*Visiting Researcher (May 2022 - July 2022)* \\
+Law School, University of Southampton, UK
+
 *Visiting Researcher (Sept 2021 - Nov 2021)* \\
 Sociology and Economics of Networks and Services, Orange Labs, Paris, France
 
