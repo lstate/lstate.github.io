@@ -17,6 +17,11 @@ I host code on [github](https://github.com/lstate).
 
 ## Conference
 
+-- *Constructing Meaningful Explanations: Logic-based Approaches. AIES 2022 Student Paper Abstract* \\
+Laura State
+
+The manuscript can be accessed [here](https://dl.acm.org/doi/10.1145/3514094.3539544).
+
 -- *Logic Programming for XAI: A Technical Perspective. ICLP Workshops 2021* \\
 Laura State
 
@@ -36,10 +41,7 @@ The paper can be accessed [here](https://rdcu.be/cNnnR).
 
 ## Forthcoming
 
--- *Constructing Meaningful Explanations: Logic-based Approaches* \\
-Laura State
-
-Abstract, to appear in the proceedings of AIES 2022
+/
 
 
 ## Other
