@@ -10,7 +10,7 @@ permalink: /publications/
 Publications
 </div>
 
-My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de) and [dblp](https://dblp.uni-trier.de/pid/248/5723.html) listings.
+My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de), [orchid](https://orcid.org/0000-0001-8084-5297) and [dblp](https://dblp.uni-trier.de/pid/248/5723.html) listings.
 
 I host code on [github](https://github.com/lstate).
 
@@ -41,7 +41,15 @@ The paper can be accessed [here](https://rdcu.be/cNnnR).
 
 ## Forthcoming
 
-/
+-- *Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal* \\
+Laura State, Hadrien Salat, Stefania Rubrichi, Zbigniew Smoreda
+
+Accepted at TSRML 2022 workshop (non archival), co-located at NeurIPS
+
+-- *Can We Trust Fair-AI?* \\
+Salvatore Ruggieri, Jose M. Alvarez, Andrea Pugnana, Laura State, Franco Turini
+
+Paper led by Salvatore Ruggieri, AAAI-2023 Senior Member Track
 
 
 ## Other
