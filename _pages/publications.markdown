@@ -17,18 +17,31 @@ I host code on [github](https://github.com/lstate).
 
 ## Conference
 
+-- *Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal* \\
+Laura State, Hadrien Salat, Stefania Rubrichi, Zbigniew Smoreda
+
+The manuscript can be accessed [here](https://arxiv.org/abs/2211.06277).
+
+Trustworthy and Socially Responsible Machine Learning (TSRML) 2022 workshop, co-located at NeurIPS 2022.
+
 -- *Constructing Meaningful Explanations: Logic-based Approaches. AIES 2022 Student Paper Abstract* \\
 Laura State
 
 The manuscript can be accessed [here](https://dl.acm.org/doi/10.1145/3514094.3539544).
+
+Artificial Intelligence, Ethics, and Society (AIES) 2022.
 
 -- *Logic Programming for XAI: A Technical Perspective. ICLP Workshops 2021* \\
 Laura State
 
 The manuscript can be accessed [here](http://ceur-ws.org/Vol-2970/meepaper1.pdf).
 
+1st Workshop on Machine Ethics and Explainability - The Role of Logic Programming (MEandE-LP) 2021, co-located at ICLP 2021.
+
 -- *Training Delays in Spiking Neural Networks. ICANN (1) 2019: 713-717* \\
 Laura State, Pau Vilimelis Aceituno
+
+International Conference on Artificial Neural Networks (ICANN) 2019.
 
 
 ## Journal
@@ -40,11 +53,6 @@ The paper can be accessed [here](https://rdcu.be/cNnnR).
 
 
 ## Forthcoming
-
--- *Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal* \\
-Laura State, Hadrien Salat, Stefania Rubrichi, Zbigniew Smoreda
-
-Accepted at TSRML 2022 workshop (non archival), co-located at NeurIPS
 
 -- *Can We Trust Fair-AI?* \\
 Salvatore Ruggieri, Jose M. Alvarez, Andrea Pugnana, Laura State, Franco Turini
