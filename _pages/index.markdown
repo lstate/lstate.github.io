@@ -19,9 +19,10 @@ I am Laura State, currently a Marie Skłodowska-Curie Early Stage Researcher wit
 [NoBIAS ITN](https://nobias-project.eu)
 and a PhD student in
 [Data Science](https://datasciencephd.eu/).
-I am based in the
-[KDD Lab](https://kdd.isti.cnr.it/)
- at the University of Pisa, Italy.
+While I am based in the
+[KDD Lab](https://kdd.isti.cnr.it/) 
+at the University of Pisa, my PhD is hosted by the  
+[Scuola Normale Superiore](https://www.sns.it/eng).
 My PhD supervisors are Salvatore Ruggieri and Franco Turini.
 
 I want to contribute to a better understanding of machine learning models. Specifically, I am interested in the social implications of those systems, and long-term consequences. I am currently focussing on developing and improving explanation techniques for machine learning models that are not interpretable. To this end, I am heavily drawing from formal logic.
