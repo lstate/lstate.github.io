@@ -24,7 +24,7 @@ While I am based in the
 at the University of Pisa, my PhD is hosted by the [Scuola Normale Superiore](https://www.sns.it/eng).
 My PhD supervisors are Salvatore Ruggieri and Franco Turini.
 
-I want to contribute to a better understanding of machine learning models. Specifically, I am interested in the social implications of those systems, and long-term consequences. I am currently focussing on developing and improving explanation techniques for machine learning models that are not interpretable. To this end, I am heavily drawing from formal logic.
+I want to contribute to a better understanding of machine learning models. Specifically, I am interested in the social implications of those systems, and long-term consequences. I am currently focusing on developing and improving explanation techniques for machine learning models that are not interpretable, with a focus on constrastive explanations. To this end, I am heavily drawing from formal logic.
 
 I hold a B.Sc. in Physics and a M.Sc. in Neural Information Processing.
 Further, I have done two internships in the micro-finance industry, working on data analytics.
