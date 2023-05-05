@@ -14,8 +14,36 @@ My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de)
 
 I host code on [github](https://github.com/lstate).
 
+## Forthcoming
+
+-- *How should my explanation be? A mapping of technical and legal desiderata of explanations for machine learning models* \\
+Laura State, Alejandra Bringas Colmenarejo, Giovanni Comande
+
+Conference on Law, AI, and Regulation (LAIR) 2023.
+
+-- *The Explanation Dialogues: Understanding how legal experts reason about XAI methods* \\
+Laura State, Alejandra Bringas Colmenarejo, Andrea Beretta, Salvatore Ruggieri, Franco Turini, Stephanie Law
+
+Short submission.
+
+European Workshop on Algorithmic Fairness (EWAF'23), 2023.
+
+-- *Careful Explanations: A Feminist Perspective towards XAI* \\
+Laura State, Miriam Fahimi
+
+Short submission.
+
+European Workshop on Algorithmic Fairness (EWAF'23), 2023.
+
 
 ## Conference
+
+-- *Can We Trust Fair-AI?* \\
+Salvatore Ruggieri, Jose M. Alvarez, Andrea Pugnana, Laura State, Franco Turini
+
+Paper led by Salvatore Ruggieri, AAAI-2023 Senior Member Track.
+
+The manuscript can be accessed [here](http://pages.di.unipi.it/ruggieri/Papers/aaai2023st).
 
 -- *Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal* \\
 Laura State, Hadrien Salat, Stefania Rubrichi, Zbigniew Smoreda
@@ -50,14 +78,6 @@ International Conference on Artificial Neural Networks (ICANN) 2019.
 Orestis Lampridis, Laura State, Riccardo Guidotti, Salvatore Ruggieri
 
 The paper can be accessed [here](https://rdcu.be/cNnnR).
-
-
-## Forthcoming
-
--- *Can We Trust Fair-AI?* \\
-Salvatore Ruggieri, Jose M. Alvarez, Andrea Pugnana, Laura State, Franco Turini
-
-Paper led by Salvatore Ruggieri, AAAI-2023 Senior Member Track
 
 
 ## Other
