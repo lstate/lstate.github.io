@@ -14,6 +14,8 @@ News
 
 -- March 2023: Accepted paper at [LAIR 2023](https://www.eur.nl/en/esl/events/conference-law-ai-and-regulation-lair-2023-06-08)!
 
+-- March 2023: I have been accepted for the Summer Doctoral Programme at the OII (July 2023). See you in Oxford!
+
 -- January 2023: Happy to announce the following two events for which I am part of the organizing teams:
 
    1) The EELISA spring school [Ethos + Tekhnè: a new generation of AI researchers](https://community.eelisa.eu/activities/ethos-tekhne-a-new-generation-of-ai-researchers/) which is now open for application! It will take place in Pisa from 6th to 10th of March 2023, and is jointly organised by PSL, Scuola Normale Superiore and Scuola Superiore Sant’Anna.
