@@ -43,6 +43,8 @@ Solargrid Tanzania Ltd. (Sept 2016 – Apr 2017)
 
 ## Other
 
-Training in Global Education (Jan 2020 – Oct 2020)
+Training in Global Education and Advisory Board (Jan 2020 – Oct 2020, July 2022 - present)
+
+Feminist and Tech Reading Group (Sept 2021 - May 2022)
 
 you-manity Tuebingen e.V. (Dec 2017 – Nov 2018)
