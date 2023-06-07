@@ -10,6 +10,8 @@ permalink: /news/
 News
 </div>
 
+-- May 2023: I will be travelling to [XAI 2023](https://xaiworldconference.com/) to present accepted work. See you there!
+
 -- April 2023: Two accepted short papers at [EWAF'23](https://sites.google.com/view/ewaf23/home)! See you in Winterthur (Switzerland) in June!
 
 -- March 2023: Accepted paper at [LAIR 2023](https://www.eur.nl/en/esl/events/conference-law-ai-and-regulation-lair-2023-06-08)!
