@@ -16,6 +16,16 @@ I host code on [github](https://github.com/lstate).
 
 ## Forthcoming
 
+-- *Reason to Explain: Interactive contrastive explanations (REASONX)*\\
+Laura State, Salvatore Ruggieri, and Franco Turini
+
+The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023).
+
+-- *Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal* \\
+Laura State, Hadrien Salat, Stefania Rubrichi, and Zbigniew Smoreda
+
+The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023).
+
 -- *How should my explanation be? A mapping of technical and legal desiderata of explanations for machine learning models* \\
 Laura State, Alejandra Bringas Colmenarejo, Giovanni Comande
 
@@ -48,9 +58,9 @@ The manuscript can be accessed [here](http://pages.di.unipi.it/ruggieri/Papers/a
 -- *Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal* \\
 Laura State, Hadrien Salat, Stefania Rubrichi, Zbigniew Smoreda
 
-The manuscript can be accessed [here](https://arxiv.org/abs/2211.06277).
+Non-archival. Trustworthy and Socially Responsible Machine Learning (TSRML) 2022 workshop, co-located at NeurIPS 2022.
 
-Trustworthy and Socially Responsible Machine Learning (TSRML) 2022 workshop, co-located at NeurIPS 2022.
+The manuscript can be accessed [here](https://arxiv.org/abs/2211.06277).
 
 -- *Constructing Meaningful Explanations: Logic-based Approaches. AIES 2022 Student Paper Abstract* \\
 Laura State
