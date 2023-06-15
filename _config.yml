@@ -44,18 +44,6 @@ include: [_pages]
 sass:
   style: compressed
 
-main:
-  - title: "News"
-    url: /news/
-  - title: "CV"
-    url: /cv/
-  - title: "Publications"
-    url: /publications/
-   - title: "Outreach"
-    url: /outreach/
-  - title: "About"
-    url: /about/
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
