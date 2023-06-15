@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Outreach
-permalink: /outreach/
+permalink: /news/
 ---
 
 <br />
