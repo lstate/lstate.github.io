@@ -26,11 +26,6 @@ Laura State, Hadrien Salat, Stefania Rubrichi, and Zbigniew Smoreda
 
 The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023).
 
--- *How should my explanation be? A mapping of technical and legal desiderata of explanations for machine learning models* \\
-Laura State, Alejandra Bringas Colmenarejo, Giovanni Comande
-
-Conference on Law, AI, and Regulation (LAIR) 2023.
-
 -- *The Explanation Dialogues: Understanding how legal experts reason about XAI methods* \\
 Laura State, Alejandra Bringas Colmenarejo, Andrea Beretta, Salvatore Ruggieri, Franco Turini, Stephanie Law
 
@@ -44,6 +39,14 @@ Laura State, Miriam Fahimi
 Short submission.
 
 European Workshop on Algorithmic Fairness (EWAF'23), 2023.
+
+
+## Working Paper
+
+-- *How should my explanation be? A mapping of technical and legal desiderata of explanations for machine learning models* \\
+Laura State, Alejandra Bringas Colmenarejo, Giovanni Comande
+
+Conference on Law, AI, and Regulation (LAIR) 2023.
 
 
 ## Conference
