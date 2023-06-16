@@ -2,6 +2,7 @@
 layout: default
 title: Outreach
 permalink: /outreach/
+group: navigation
 ---
 
 <br />
