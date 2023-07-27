@@ -12,7 +12,7 @@ Outreach
 
 ## Presentations and Programs
 
--- July 2023: [accepted] [OII Summer Doctoral Programme](https://www.oii.ox.ac.uk/study/summer-doctoral-programme/)
+-- July 2023: [OII Summer Doctoral Programme](https://www.oii.ox.ac.uk/study/summer-doctoral-programme/)
 
 -- June 2023: Paper presentation at [EWAF'23](https://sites.google.com/view/ewaf23/home)
 
