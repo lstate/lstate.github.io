@@ -7,7 +7,7 @@ permalink: /cv/
 <br />
 
 <div class="title">
-CV
+CV (short)
 </div>
 
 ## Education
