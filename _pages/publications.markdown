@@ -16,11 +16,6 @@ I host code on [github](https://github.com/lstate).
 
 ## Forthcoming
 
--- *Declarative Reasoning on Explanations Using Constraint Logic Programming*\\
-Laura State, Salvatore Ruggieri, and Franco Turini
-
-Short paper. European Conference on Logics in Artificial Intelligence (JELIA 2023).
-
 -- *Reason to Explain: Interactive contrastive explanations (REASONX)*\\
 Laura State, Salvatore Ruggieri, and Franco Turini
 
@@ -41,6 +36,13 @@ Conference on Law, AI, and Regulation (LAIR) 2023.
 
 
 ## Conference/Workshop
+
+-- *Declarative Reasoning on Explanations Using Constraint Logic Programming*\\
+Laura State, Salvatore Ruggieri, and Franco Turini
+
+Short paper. European Conference on Logics in Artificial Intelligence (JELIA 2023).
+
+The paper is available [here](http://export.arxiv.org/abs/2309.00422).
 
 -- *The Explanation Dialogues: Understanding how legal experts reason about XAI methods* \\
 Laura State, Alejandra Bringas Colmenarejo, Andrea Beretta, Salvatore Ruggieri, Franco Turini, Stephanie Law
