@@ -61,7 +61,7 @@ Salvatore Ruggieri, Jose M. Alvarez, Andrea Pugnana, Laura State, Franco Turini
 
 Paper led by Salvatore Ruggieri, Senior Member Track. AAAI-2023.
 
-The manuscript can be accessed [here](http://pages.di.unipi.it/ruggieri/Papers/aaai2023st).
+The manuscript can be accessed [here](https://ojs.aaai.org/index.php/AAAI/article/view/26798).
 
 -- *Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal* \\
 Laura State, Hadrien Salat, Stefania Rubrichi, Zbigniew Smoreda
@@ -75,7 +75,7 @@ Laura State
 
 Student paper abstract. Artificial Intelligence, Ethics, and Society (AIES) 2022.
 
-The manuscript can be accessed [here](https://dl.acm.org/doi/10.1145/3514094.3539544).
+The pdf can be accessed [here](https://lstate.github.io/assets/state_constructing_meaningful_explanations.pdf).
 
 -- *Logic Programming for XAI: A Technical Perspective. ICLP Workshops 2021* \\
 Laura State
@@ -95,7 +95,7 @@ International Conference on Artificial Neural Networks (ICANN) 2019.
 -- *Explaining Short Text Classification with Diverse Synthetic Exemplars and Counter-Exemplars* \\
 Orestis Lampridis, Laura State, Riccardo Guidotti, Salvatore Ruggieri
 
-The paper can be accessed [here](https://rdcu.be/cNnnR).
+The paper can be accessed [here]([https://rdcu.be/cNnnR](https://link.springer.com/article/10.1007/s10994-022-06150-7)).
 
 
 ## Other
