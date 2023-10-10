@@ -12,9 +12,9 @@ Outreach
 
 ## Presentations and Programs
 
--- September 2023: Paper presentation at [JELIA 2023](https://jelia2023.inf.tu-dresden.de/).
+-- September 2023: Paper presentation at [JELIA 2023](https://jelia2023.inf.tu-dresden.de/)
 
--- July 2023: Paper presentation at [xAI 2023](https://xaiworldconference.com/2023/).
+-- July 2023: Paper presentation at [xAI 2023](https://xaiworldconference.com/2023/)
 
 -- July 2023: [OII Summer Doctoral Programme](https://www.oii.ox.ac.uk/study/summer-doctoral-programme/)
 
@@ -31,6 +31,8 @@ Outreach
 -- September 2021: Paper presentation at [MEandE-LP](https://sites.google.com/view/meande2021)
 
 ## Event Co-Organization
+
+-- [AI-Gap](http://aigap.di.unipi.it/): 3-day workshop on algorithmic biases from interdisciplinary perspectives, the event *will* take place on 20th to 22nd of November 2023, in L'Aquila, and with a pre-event on 17th of November in Pisa (film screening of ''Coded Bias'')
 
 -- [Ethos + Tekhnè: a new generation of AI researchers](https://community.eelisa.eu/activities/ethos-tekhne-a-new-generation-of-ai-researchers/): spring school on AI and ethics, 6th to 10th of March 2023, Pisa, Italy, jointly organised by PSL, Scuola Normale Superiore and Scuola Superiore Sant’Anna
 
