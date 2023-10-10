@@ -12,6 +12,10 @@ Outreach
 
 ## Presentations and Programs
 
+-- September 2023: Paper presentation at [JELIA 2023](https://jelia2023.inf.tu-dresden.de/).
+
+-- July 2023: Paper presentation at [xAI 2023](https://xaiworldconference.com/2023/).
+
 -- July 2023: [OII Summer Doctoral Programme](https://www.oii.ox.ac.uk/study/summer-doctoral-programme/)
 
 -- June 2023: Paper presentation at [EWAF'23](https://sites.google.com/view/ewaf23/home)
