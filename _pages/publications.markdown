@@ -16,16 +16,7 @@ I host code on [github](https://github.com/lstate).
 
 ## Forthcoming
 
--- *Reason to Explain: Interactive contrastive explanations (REASONX)*\\
-Laura State, Salvatore Ruggieri, and Franco Turini
-
-The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023).
-
--- *Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal* \\
-Laura State, Hadrien Salat, Stefania Rubrichi, and Zbigniew Smoreda
-
-The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023).
-
+//
 
 ## Working Paper
 
@@ -36,6 +27,20 @@ Conference on Law, AI, and Regulation (LAIR) 2023.
 
 
 ## Conference/Workshop
+
+-- *Reason to Explain: Interactive contrastive explanations (REASONX)*\\
+Laura State, Salvatore Ruggieri, and Franco Turini
+
+The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023).
+
+The paper can be downloaded [here](https://arxiv.org/abs/2305.18143).
+
+-- *Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal* \\
+Laura State, Hadrien Salat, Stefania Rubrichi, and Zbigniew Smoreda
+
+The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023).
+
+The paper can be downloaded [here](https://arxiv.org/abs/2211.06277).
 
 -- *Declarative Reasoning on Explanations Using Constraint Logic Programming*\\
 Laura State, Salvatore Ruggieri, and Franco Turini
