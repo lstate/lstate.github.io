@@ -13,9 +13,11 @@ permalink: /
 Laura State
 </div>
 
-Hi! Thanks for visiting my website.
+*How can we harness the advantages of automated decision-making systems to build a more just and equitable future, respecting each individual, as well as our environment?* I am pursuing an answer to this question via my interdisciplinary research that is firmly grounded in the hard sciences.
 
-I am Laura State, currently a Marie Skłodowska-Curie Early Stage Researcher with the
+My current focus is on developing and improving explanation techniques for machine learning models. For more information, check my [Publications](https://lstate.github.io/publications/).
+
+I am a Marie Skłodowska-Curie Early Stage Researcher with the
 [NoBIAS ITN](https://nobias-project.eu)
 and a PhD student in
 [Data Science](https://datasciencephd.eu/).
@@ -23,10 +25,6 @@ While I am based in the
 [KDD Lab](https://kdd.isti.cnr.it/) 
 at the University of Pisa, my PhD is hosted by the [Scuola Normale Superiore](https://www.sns.it/eng).
 My PhD supervisors are Salvatore Ruggieri and Franco Turini.
-
-I want to contribute to a better understanding of machine learning models. Specifically, I am interested in the social implications of those systems, and long-term consequences. I am currently focusing on developing and improving explanation techniques for machine learning models that are not interpretable, with a focus on constrastive explanations. To this end, I am heavily drawing from formal logic.
-
-I am also interested in feminist theory, and making scientific research accessible for a broader public.
 
 Feel free to contact me via [email](mailto:laura.state@di.unipi.it)
 or on
