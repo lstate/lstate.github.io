@@ -14,9 +14,14 @@ My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de)
 
 I host code on [github](https://github.com/lstate).
 
+
 ## Forthcoming
 
-//
+-- *Beyond Demographic Parity: Redefining Equal Treatment*\\
+Carlos Mougan, Laura State, Antonio Ferrara, Salvatore Ruggieri, Steffen Staab
+
+Non-archival. First Workshop on AI meets Moral Philosophy and Moral Psychology, co-located at NeurIPS 2023.
+
 
 ## Working Paper
 
