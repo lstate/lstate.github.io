@@ -30,11 +30,15 @@ Outreach
 
 -- September 2021: Paper presentation at [MEandE-LP](https://sites.google.com/view/meande2021)
 
-## Event Co-Organization
+## Event Organization/Outreach
 
--- [AI-Gap](http://aigap.di.unipi.it/): 3-day workshop on algorithmic biases from interdisciplinary perspectives, the event took place on 20th to 22nd of November 2023, in L'Aquila, with a pre-event on 17th of November in Pisa (film screening of ''Coded Bias'')
+-- Feminism + AI: a [workshop](https://aigap.di.unipi.it/event/feminism-ai-a-workshop-by-laura-state/) at AI GAP
+
+-- [AI GAP](http://aigap.di.unipi.it/): 3-day workshop on algorithmic biases from interdisciplinary perspectives, 20th to 22nd of November 2023, L'Aquila, Italy, jointly organzied by researchers/PhD students at University of Pisa, Scuola Normale Superiore Pisa, University of L'Aquila and Fondazione Bruno Kessler, pre-event on 17th of November 2023, Pisa, Italy (film screening of ''Coded Bias'')
 
 -- [Ethos + Tekhnè: a new generation of AI researchers](https://community.eelisa.eu/activities/ethos-tekhne-a-new-generation-of-ai-researchers/): spring school on AI and ethics, 6th to 10th of March 2023, Pisa, Italy, jointly organised by PSL, Scuola Normale Superiore and Scuola Superiore Sant’Anna
 
--- [Picture a Scientist](https://aigap.it/): public event to foster the dialogue about gender stereotypes and the gender gap in STEM discipline, 3rd of February 2023, Pisa, Italy
+-- [Picture a Scientist](https://aigap.it/): public event to foster the dialogue about gender stereotypes and the gender gap in STEM discipline, 3rd of February 2023, Pisa, Italy, jointly organized by PhD students at University of Pisa and Scuola Normale Superiore, Pisa
+
+-- Feminist and Tech Reading Group (Sept 2021 - May 2022)
 
