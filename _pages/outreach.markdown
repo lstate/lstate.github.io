@@ -32,7 +32,7 @@ Outreach
 
 ## Event Co-Organization
 
--- [AI-Gap](http://aigap.di.unipi.it/): 3-day workshop on algorithmic biases from interdisciplinary perspectives, the event *will* take place on 20th to 22nd of November 2023, in L'Aquila, and with a pre-event on 17th of November in Pisa (film screening of ''Coded Bias'')
+-- [AI-Gap](http://aigap.di.unipi.it/): 3-day workshop on algorithmic biases from interdisciplinary perspectives, the event took place on 20th to 22nd of November 2023, in L'Aquila, with a pre-event on 17th of November in Pisa (film screening of ''Coded Bias'')
 
 -- [Ethos + Tekhnè: a new generation of AI researchers](https://community.eelisa.eu/activities/ethos-tekhne-a-new-generation-of-ai-researchers/): spring school on AI and ethics, 6th to 10th of March 2023, Pisa, Italy, jointly organised by PSL, Scuola Normale Superiore and Scuola Superiore Sant’Anna
 
