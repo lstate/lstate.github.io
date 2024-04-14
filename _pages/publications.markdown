@@ -17,10 +17,10 @@ I host code on [github](https://github.com/lstate).
 
 ## Forthcoming
 
--- *Beyond Demographic Parity: Redefining Equal Treatment*\\
-Carlos Mougan, Laura State, Antonio Ferrara, Salvatore Ruggieri, Steffen Staab
+-- *Policy advice and best practices on bias and fairness in AI* \\
+Jose M. Alvarez, Alejandra Bringas-Colmenarejo, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri
 
-Non-archival. First Workshop on AI meets Moral Philosophy and Moral Psychology, co-located at NeurIPS 2023.
+Ethics and Information Technology.
 
 
 ## Working Paper
@@ -32,6 +32,11 @@ Conference on Law, AI, and Regulation (LAIR) 2023.
 
 
 ## Conference/Workshop
+
+-- *Beyond Demographic Parity: Redefining Equal Treatment*\\
+Carlos Mougan, Laura State, Antonio Ferrara, Salvatore Ruggieri, Steffen Staab
+
+Non-archival. First Workshop on AI meets Moral Philosophy and Moral Psychology, co-located at NeurIPS 2023.
 
 -- *Reason to Explain: Interactive contrastive explanations (REASONX)*\\
 Laura State, Salvatore Ruggieri, and Franco Turini
@@ -106,6 +111,8 @@ International Conference on Artificial Neural Networks (ICANN) 2019.
 
 -- *Explaining Short Text Classification with Diverse Synthetic Exemplars and Counter-Exemplars* \\
 Orestis Lampridis, Laura State, Riccardo Guidotti, Salvatore Ruggieri
+
+Machine Learning.
 
 The paper can be accessed [here]([https://rdcu.be/cNnnR](https://link.springer.com/article/10.1007/s10994-022-06150-7)).
 
