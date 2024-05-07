@@ -15,12 +15,21 @@ My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de)
 I host code on [github](https://github.com/lstate).
 
 
-## Working Paper
+## Journal
 
--- *How should my explanation be? A mapping of technical and legal desiderata of explanations for machine learning models* \\
-Laura State, Alejandra Bringas Colmenarejo, Giovanni Comande
+-- *Policy advice and best practices on bias and fairness in AI* \\
+Jose M. Alvarez, Alejandra Bringas-Colmenarejo, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri
 
-Conference on Law, AI, and Regulation (LAIR) 2023.
+Ethics and Information Technology.
+
+The paper can be accessed [here](https://link.springer.com/article/10.1007/s10676-024-09746-w).
+
+-- *Explaining Short Text Classification with Diverse Synthetic Exemplars and Counter-Exemplars* \\
+Orestis Lampridis, Laura State, Riccardo Guidotti, Salvatore Ruggieri
+
+Machine Learning.
+
+The paper can be accessed [here](https://link.springer.com/article/10.1007/s10994-022-06150-7).
 
 
 ## Conference/Workshop
@@ -99,21 +108,12 @@ Laura State, Pau Vilimelis Aceituno
 International Conference on Artificial Neural Networks (ICANN) 2019.
 
 
-## Journal
+## Working Paper
 
--- *Policy advice and best practices on bias and fairness in AI* \\
-Jose M. Alvarez, Alejandra Bringas-Colmenarejo, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri
+-- *How should my explanation be? A mapping of technical and legal desiderata of explanations for machine learning models* \\
+Laura State, Alejandra Bringas Colmenarejo, Giovanni Comande
 
-Ethics and Information Technology.
-
-The paper can be accessed [here](https://link.springer.com/article/10.1007/s10676-024-09746-w).
-
--- *Explaining Short Text Classification with Diverse Synthetic Exemplars and Counter-Exemplars* \\
-Orestis Lampridis, Laura State, Riccardo Guidotti, Salvatore Ruggieri
-
-Machine Learning.
-
-The paper can be accessed [here](https://link.springer.com/article/10.1007/s10994-022-06150-7).
+Conference on Law, AI, and Regulation (LAIR) 2023.
 
 
 ## Other
