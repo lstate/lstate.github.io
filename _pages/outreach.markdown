@@ -12,6 +12,8 @@ Outreach
 
 ## Presentations and Programs
 
+-- October 2023: Poster at [Alice & Eve 2023](https://alice-and-eve.github.io/2023/)
+
 -- September 2023: Paper presentation at [JELIA 2023](https://jelia2023.inf.tu-dresden.de/)
 
 -- July 2023: Paper presentation at [xAI 2023](https://xaiworldconference.com/2023/)
