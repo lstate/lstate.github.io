@@ -23,7 +23,7 @@ University of Rostock, Germany
 
 ## Experience
 
-*Marie Skłodowska-Curie Early Stage Researcher in the NoBIAS ITN (Nov 2020 - present)* \\
+*Marie Skłodowska-Curie Early Stage Researcher in the NoBIAS ITN (Nov 2020 - June 2024)* \\
 KDD Lab, University of Pisa, Italy
 
 *Visiting Researcher (May 2023 - July 2023)* \\
