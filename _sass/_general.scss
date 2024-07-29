@@ -17,6 +17,17 @@ body {
 
   text-align: justify;
 
+  .content {
+  margin-left: 0;
+  margin-right: 0;
+  }
+
+  @media (min-width: 800px) { /*choose the width you prefer*/
+  .content {
+    margin-left: 30%;
+    margin-right: 30%;
+  }
+
 }
 
 .title {
