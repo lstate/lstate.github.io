@@ -12,6 +12,8 @@ Outreach
 
 ## Presentations and Programs
 
+-- July 2024: [XAI Hackaton](http://xai-hackathon.isti.cnr.it/), First Place Award together with Marta Marchiori Manerba, Andrea Pugnana (team project)
+
 -- October 2023: Poster at [Alice & Eve 2023](https://alice-and-eve.github.io/2023/)
 
 -- September 2023: Paper presentation at [JELIA 2023](https://jelia2023.inf.tu-dresden.de/)
