@@ -23,6 +23,9 @@ University of Rostock, Germany
 
 ## Experience
 
+*Research Associate (July 2024 - present)* \\
+KDD Lab, University of Pisa, Italy
+
 *Marie Skłodowska-Curie Early Stage Researcher in the NoBIAS ITN (Nov 2020 - June 2024)* \\
 KDD Lab, University of Pisa, Italy
 
@@ -43,6 +46,6 @@ Solargrid Tanzania Ltd. (Sept 2016 – Apr 2017)
 
 ## Other
 
-Training in Global Education and Advisory Board (Jan 2020 – Oct 2020, July 2022 - present)
+Training in Global Education and Advisory Board, eFeF (Jan 2020 – Oct 2020, July 2022 - present)
 
 you-manity Tuebingen e.V. (Dec 2017 – Nov 2018)
