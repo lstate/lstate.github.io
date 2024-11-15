@@ -12,7 +12,7 @@ CV (short)
 
 ## Education
 
-*PhD Data Science (Nov 2020 - present)* \\
+*PhD Data Science (Nov 2020 - Oct 2024)* \\
 Scuola Normale Superiore, Pisa, Italy
 
 *Master of Science, Neural Information Processing (Oct 2017 – Sept 2019)* \\
@@ -43,9 +43,3 @@ Sociology and Economics of Networks and Services, Orange Labs, Paris, France
 Solaris offgrid/Payg Ops (Apr 2020 – Jul 2020)
 
 Solargrid Tanzania Ltd. (Sept 2016 – Apr 2017)
-
-## Other
-
-Training in Global Education and Advisory Board, eFeF (Jan 2020 – Oct 2020, July 2022 - present)
-
-you-manity Tuebingen e.V. (Dec 2017 – Nov 2018)
