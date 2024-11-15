@@ -12,8 +12,6 @@ Outreach
 
 ## Presentations and Programs
 
--- July 2024: [XAI Hackaton](http://xai-hackathon.isti.cnr.it/), First Place Award together with Marta Marchiori Manerba, Andrea Pugnana (team project)
-
 -- October 2023: Poster at [Alice & Eve 2023](https://alice-and-eve.github.io/2023/)
 
 -- September 2023: Paper presentation at [JELIA 2023](https://jelia2023.inf.tu-dresden.de/)
@@ -34,15 +32,13 @@ Outreach
 
 -- September 2021: Paper presentation at [MEandE-LP](https://sites.google.com/view/meande2021)
 
-## Event Organization/Outreach
+## Event Organization
 
--- Feminism + AI: a [workshop](https://aigap.di.unipi.it/event/feminism-ai-a-workshop-by-laura-state/) at AI GAP
+-- Feminism + AI: a [workshop](https://aigap.di.unipi.it/event/feminism-ai-a-workshop-by-laura-state/) at AI GAP (Nov 2023)
 
--- [AI GAP](http://aigap.di.unipi.it/): 3-day workshop on algorithmic biases from interdisciplinary perspectives, 20th to 22nd of November 2023, L'Aquila, Italy, jointly organzied by researchers/PhD students at University of Pisa, Scuola Normale Superiore Pisa, University of L'Aquila and Fondazione Bruno Kessler, pre-event on 17th of November 2023, Pisa, Italy (film screening of ''Coded Bias'')
+-- [AI GAP](http://aigap.di.unipi.it/): series of three events on AI and algorithmic biases (Oct 2022 - Feb 2024)
 
--- [Ethos + Tekhnè: a new generation of AI researchers](https://community.eelisa.eu/activities/ethos-tekhne-a-new-generation-of-ai-researchers/): spring school on AI and ethics, 6th to 10th of March 2023, Pisa, Italy, jointly organised by PSL, Scuola Normale Superiore and Scuola Superiore Sant’Anna
-
--- [Picture a Scientist](https://aigap.it/): public event to foster the dialogue about gender stereotypes and the gender gap in STEM discipline, 3rd of February 2023, Pisa, Italy, jointly organized by PhD students at University of Pisa and Scuola Normale Superiore, Pisa
+-- [Ethos + Tekhnè: a new generation of AI researchers](https://community.eelisa.eu/activities/ethos-tekhne-a-new-generation-of-ai-researchers/): EELISA spring school on AI and ethics (July 2022 - Apr 2023)
 
 -- Feminist and Tech Reading Group (Sept 2021 - May 2022)
 
