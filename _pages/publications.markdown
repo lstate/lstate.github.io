@@ -10,9 +10,7 @@ permalink: /publications/
 Publications
 </div>
 
-My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de), [orcid](https://orcid.org/0000-0001-8084-5297) and [dblp](https://dblp.uni-trier.de/pid/248/5723.html) listings.
-
-I host code on [github](https://github.com/lstate).
+My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de), [orcid](https://orcid.org/0000-0001-8084-5297) and [dblp](https://dblp.uni-trier.de/pid/248/5723.html) listings. I host code on [github](https://github.com/lstate).
 
 
 ## Journal
@@ -42,8 +40,8 @@ The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023).
 **Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal** [[pdf](https://arxiv.org/abs/2211.06277)] <br>
 Laura State, Hadrien Salat, Stefania Rubrichi, and Zbigniew Smoreda
 
-- The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023).
-- Non-archival. Trustworthy and Socially Responsible Machine Learning (TSRML) 2022 workshop, co-located at NeurIPS 2022.
+-- The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023).
+-- Non-archival. Trustworthy and Socially Responsible Machine Learning (TSRML) 2022 workshop, co-located at NeurIPS 2022.
 
 **Declarative Reasoning on Explanations Using Constraint Logic Programming** [[pdf](http://export.arxiv.org/abs/2309.00422)] <br>
 Laura State, Salvatore Ruggieri, and Franco Turini
@@ -80,14 +78,7 @@ Laura State, Pau Vilimelis Aceituno
 
 International Conference on Artificial Neural Networks (ICANN) 2019.
 
-## Working Paper
-
--- *How should my explanation be? A mapping of technical and legal desiderata of explanations for machine learning models* \\
-Laura State, Alejandra Bringas Colmenarejo, Giovanni Comande
-
-Conference on Law, AI, and Regulation (LAIR) 2023.
-
 ## Other
 
-**Training Delays in Spiking Neural Networks** [[pdf](https://www.mis.mpg.de/publications/preprints/2019/prepr2019-96.html)]
+**Training Delays in Spiking Neural Networks** [[pdf](https://www.mis.mpg.de/publications/preprints/2019/prepr2019-96.html)] <br>
 My master thesis.
