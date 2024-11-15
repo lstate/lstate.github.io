@@ -26,10 +26,16 @@ KDD Lab, University of Pisa, Italy
 KDD Lab, University of Pisa, Italy
 
 *Visiting Researcher (May 2023 - July 2023)* \\
-SCHUFA Holding AG, Wiesbaden, Germany
+Innovation and Research, SCHUFA Holding AG, Wiesbaden, Germany
 
 *Visiting Researcher (May 2022 - July 2022)* \\
 Law School, University of Southampton, UK
 
 *Visiting Researcher (Sept 2021 - Nov 2021)* \\
-Sociology and Economics of Networks and Services, Orange Labs, Paris, France
+SENSE, Orange Labs, Orange S.A., Paris, France
+
+*Intern (Apr 2020 - Jul 2020)* \\
+Customer Success Team, SolarisOffgrid/PaygOps (Eternum Ltd.) Valencia, ES
+
+*Intern (Sept 2016 - Apr 2017)* \\
+Solargrid Tanzania Ltd., Morogoro, TZ
