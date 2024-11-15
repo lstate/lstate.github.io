@@ -37,9 +37,3 @@ Law School, University of Southampton, UK
 
 *Visiting Researcher (Sept 2021 - Nov 2021)* \\
 Sociology and Economics of Networks and Services, Orange Labs, Paris, France
-
-## Non academic
-
-Solaris offgrid/Payg Ops (Apr 2020 – Jul 2020)
-
-Solargrid Tanzania Ltd. (Sept 2016 – Apr 2017)
