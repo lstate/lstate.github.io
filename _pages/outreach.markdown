@@ -6,10 +6,6 @@ permalink: /outreach/
 
 <br />
 
-<div class="title">
-Outreach
-</div>
-
 ## Presentations and Programs
 
 -- October 2023: Poster at [Alice & Eve 2023](https://alice-and-eve.github.io/2023/)
