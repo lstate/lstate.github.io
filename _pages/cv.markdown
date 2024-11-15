@@ -6,10 +6,6 @@ permalink: /cv/
 
 <br />
 
-<div class="title">
-CV (short)
-</div>
-
 ## Education
 
 *PhD Data Science (Nov 2020 - Oct 2024)* \\
