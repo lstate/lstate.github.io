@@ -40,7 +40,7 @@ The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023).
 **Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal** [[pdf](https://arxiv.org/abs/2211.06277)] <br>
 Laura State, Hadrien Salat, Stefania Rubrichi, and Zbigniew Smoreda
 
--- The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023).
+-- The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023). <br>
 -- Non-archival. Trustworthy and Socially Responsible Machine Learning (TSRML) 2022 workshop, co-located at NeurIPS 2022.
 
 **Declarative Reasoning on Explanations Using Constraint Logic Programming** [[pdf](http://export.arxiv.org/abs/2309.00422)] <br>
