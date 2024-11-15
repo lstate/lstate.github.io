@@ -73,7 +73,7 @@ Laura State
 
 Extended abstract. 1st Workshop on Machine Ethics and Explainability - The Role of Logic Programming (MEandE-LP) 2021, co-located at ICLP 2021.
 
-**Training Delays in Spiking Neural Networks.** <br>
+**Training Delays in Spiking Neural Networks** <br>
 Laura State, Pau Vilimelis Aceituno
 
 International Conference on Artificial Neural Networks (ICANN) 2019.
