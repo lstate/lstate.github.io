@@ -13,18 +13,13 @@ permalink: /
 Laura State
 </div>
 
-*How can we harness the advantages of automated decision-making systems to build a more just and equitable future, respecting each individual, as well as our environment?* I am pursuing an answer to this question via my interdisciplinary research that is firmly grounded in the hard sciences.
+I am Research Associate at the [KDD Lab](https://kdd.isti.cnr.it/) at the University of Pisa. 
 
-My current focus is on developing and improving explanation techniques for machine learning models. For more information, check my [Publications](https://lstate.github.io/publications/).
+Previously, I was both a PhD student in Data Science and an Early Stage Researcher in the Marie Skłodowska-Curie ITN [NoBIAS](https://nobias-project.eu). I obtained my PhD degree from the [Scuola Normale Superiore](https://www.sns.it/en), Pisa. My PhD advisors were Salvatore Ruggieri and Franco Turini.
 
-I am a Marie Skłodowska-Curie Early Stage Researcher with the
-[NoBIAS ITN](https://nobias-project.eu)
-and a PhD student in
-[Data Science](https://datasciencephd.eu/).
-While I am based in the
-[KDD Lab](https://kdd.isti.cnr.it/) 
-at the University of Pisa, my PhD is hosted by the [Scuola Normale Superiore](https://www.sns.it/eng).
-My PhD supervisors are Salvatore Ruggieri and Franco Turini.
+I study issues of transparency and accountability of artificial intelligence (AI), with a focus on understanding non-interpretable machine learning models, assessing their societal impact, and building more responsible AI. While firmly grounded in the hard sciences, I follow an interdisciplinary approach with a focus on computer science and law and building on my academic and industry experience.
+
+For more information, check my [Publications](https://lstate.github.io/publications/).
 
 Feel free to contact me via [email](mailto:laura.state@di.unipi.it)
 or on
