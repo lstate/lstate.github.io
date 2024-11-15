@@ -6,10 +6,6 @@ permalink: /publications/
 
 <br />
 
-<div class="title">
-Publications
-</div>
-
 My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de), [orcid](https://orcid.org/0000-0001-8084-5297) and [dblp](https://dblp.uni-trier.de/pid/248/5723.html) listings. I host code on [github](https://github.com/lstate).
 
 
