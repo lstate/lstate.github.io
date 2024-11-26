@@ -14,12 +14,13 @@ My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de)
 **Policy advice and best practices on bias and fairness in AI** [[pdf](https://link.springer.com/article/10.1007/s10676-024-09746-w)] <br>
 Jose M. Alvarez, Alejandra Bringas-Colmenarejo, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri
 
-Ethics and Information Technology.
+-- Ethics and Information Technology. <br>
+-- Short paper. European Workshop on Algorithmic Fairness (EWAF'24), 2024.
 
 **Explaining Short Text Classification with Diverse Synthetic Exemplars and Counter-Exemplars** [[pdf](https://link.springer.com/article/10.1007/s10994-022-06150-7)] <br>
 Orestis Lampridis, Laura State, Riccardo Guidotti, Salvatore Ruggieri
 
-Machine Learning.
+Machine Learning, 2022.
 
 ## Conference/Workshop
 
