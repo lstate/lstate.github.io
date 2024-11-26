@@ -58,7 +58,7 @@ Short paper. European Workshop on Algorithmic Fairness (EWAF'23), 2023.
 **Can We Trust Fair-AI?** [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/26798)] <br>
 Salvatore Ruggieri, Jose M. Alvarez, Andrea Pugnana, Laura State, Franco Turini
 
-Paper led by Salvatore Ruggieri, Senior Member Track. AAAI-2023.
+Senior Member Track. AAAI-2023.
 
 **Constructing Meaningful Explanations: Logic-based Approaches** [[pdf](https://lstate.github.io/assets/state_constructing_meaningful_explanations.pdf)] <br>
 Laura State
