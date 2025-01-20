@@ -11,6 +11,11 @@ My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de)
 
 ## Journal
 
+**The explanation dialogues: an expert focus study to understand requirements towards explanations within the GDPR** [[pdf](https://arxiv.org/abs/2501.05325)] <br>
+Laura State, Alejandra Bringas Colmenarejo, Andrea Beretta, Salvatore Ruggieri, Franco Turini, Stephanie Law
+
+Artificial Intelligence and Law, 2025.
+
 **Policy advice and best practices on bias and fairness in AI** [[pdf](https://link.springer.com/article/10.1007/s10676-024-09746-w)] <br>
 Jose M. Alvarez, Alejandra Bringas-Colmenarejo, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri
 
