@@ -8,6 +8,8 @@ permalink: /outreach/
 
 ## Presentations and Programs
 
+-- February 2025: Presentation at [Explainable AI Seminar @ Imperial](https://xaiseminars.doc.ic.ac.uk/)
+
 -- October 2023: Poster at [Alice & Eve 2023](https://alice-and-eve.github.io/2023/)
 
 -- September 2023: Paper presentation at [JELIA 2023](https://jelia2023.inf.tu-dresden.de/)
