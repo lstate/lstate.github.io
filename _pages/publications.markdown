@@ -11,6 +11,11 @@ My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de)
 
 ## Journal
 
+**How should an explanation be? A mapping of technical and legal desiderata of explanations for machine learning models** [[pdf](https://www.tandfonline.com/doi/full/10.1080/13600869.2025.2497633#abstract)] <br>
+Alejandra Bringas Colmenarejo*, Laura State*, Giovanni Comande (*shared first authorship)
+
+International Review of Law, Computers & Technology, 2025.
+
 **The explanation dialogues: an expert focus study to understand requirements towards explanations within the GDPR** [[pdf](https://arxiv.org/abs/2501.05325)] <br>
 Laura State, Alejandra Bringas Colmenarejo, Andrea Beretta, Salvatore Ruggieri, Franco Turini, Stephanie Law
 
