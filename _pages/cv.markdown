@@ -19,7 +19,10 @@ University of Rostock, Germany
 
 ## Experience
 
-*Research Associate (July 2024 - present)* \\
+*Postdoctoral Researcher (May 2025 - present)* \\
+Impact AI Project, HIIG, Berlin, Germany
+
+*Research Associate (July 2024 - Mar 2025)* \\
 KDD Lab, University of Pisa, Italy
 
 *Marie Skłodowska-Curie Early Stage Researcher in the NoBIAS ITN (Nov 2020 - June 2024)* \\
