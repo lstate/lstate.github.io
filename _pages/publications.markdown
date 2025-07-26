@@ -12,7 +12,7 @@ My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de)
 ## Journal
 
 **How should an explanation be? A mapping of technical and legal desiderata of explanations for machine learning models** [[pdf](https://www.tandfonline.com/doi/full/10.1080/13600869.2025.2497633#abstract)] <br>
-Alejandra Bringas Colmenarejo*, Laura State*, Giovanni Comande (*shared first authorship)
+Alejandra Bringas Colmenarejo\*, Laura State\*, Giovanni Comande (*shared first authorship)
 
 International Review of Law, Computers & Technology, 2025.
 
