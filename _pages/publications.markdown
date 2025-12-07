@@ -6,7 +6,8 @@ permalink: /publications/
 
 <br />
 
-My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de), [orcid](https://orcid.org/0000-0001-8084-5297) and [dblp](https://dblp.uni-trier.de/pid/248/5723.html) listings. I host code on [github](https://github.com/lstate).
+My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de), [research gate](https://www.researchgate.net/profile/Laura-State), [orcid](https://orcid.org/0000-0001-8084-5297) and [dblp](https://dblp.uni-trier.de/pid/248/5723.html) listings. 
+I host code on [github](https://github.com/lstate).
 
 
 ## Journal
@@ -34,24 +35,29 @@ Machine Learning, 2022.
 
 ## Conference/Workshop
 
+**From Explaining to Diagnosing: A Justice-Oriented Framework of Explainable AI for Bias Detection** [[pdf](https://ojs.aaai.org/index.php/AIES/article/view/36597)] <br>
+Miriam Fahimi*, Laura State*, Atoosa Kasirzadeh (*shared first authorship)
+
+Artificial Intelligence, Ethics, and Society (AIES) 2025.
+
 **Beyond Demographic Parity: Redefining Equal Treatment** <br>
 Carlos Mougan, Laura State, Antonio Ferrara, Salvatore Ruggieri, Steffen Staab
 
 Non-archival. First Workshop on AI meets Moral Philosophy and Moral Psychology, co-located at NeurIPS 2023.
 
 **Reason to Explain: Interactive contrastive explanations (REASONX)** [[pdf](https://arxiv.org/abs/2305.18143)] <br>
-Laura State, Salvatore Ruggieri, and Franco Turini
+Laura State, Salvatore Ruggieri, Franco Turini
 
 The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023).
 
 **Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal** [[pdf](https://arxiv.org/abs/2211.06277)] <br>
-Laura State, Hadrien Salat, Stefania Rubrichi, and Zbigniew Smoreda
+Laura State, Hadrien Salat, Stefania Rubrichi, Zbigniew Smoreda
 
 -- The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023). <br>
 -- Non-archival. Trustworthy and Socially Responsible Machine Learning (TSRML) 2022 workshop, co-located at NeurIPS 2022.
 
 **Declarative Reasoning on Explanations Using Constraint Logic Programming** [[pdf](http://export.arxiv.org/abs/2309.00422)] <br>
-Laura State, Salvatore Ruggieri, and Franco Turini
+Laura State, Salvatore Ruggieri, Franco Turini
 
 Short paper. European Conference on Logics in Artificial Intelligence (JELIA 2023).
 
