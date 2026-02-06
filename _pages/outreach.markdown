@@ -38,13 +38,13 @@ permalink: /outreach/
 
 ## Event Organization
 
--- [Digitaler Salon: Watt für'n Prompt](https://www.hiig.de/en/events/digitaler-salon-watt-fuern-prompt/): discussion format at HIIG
+-- [Digitaler Salon: Watt für'n Prompt](https://www.hiig.de/en/events/digitaler-salon-watt-fuern-prompt/): discussion format at HIIG (October 2025)
 
--- Feminism + AI: a [workshop](https://aigap.di.unipi.it/event/feminism-ai-a-workshop-by-laura-state/) at AI GAP (Nov 2023)
+-- Feminism + AI: a [workshop](https://aigap.di.unipi.it/event/feminism-ai-a-workshop-by-laura-state/) at AI GAP (November 2023)
 
--- [AI GAP](http://aigap.di.unipi.it/): series of three events on AI and algorithmic biases (Oct 2022 - Feb 2024)
+-- [AI GAP](http://aigap.di.unipi.it/): series of three events on AI and algorithmic biases (October 2022 - February 2024)
 
--- [Ethos + Tekhnè: a new generation of AI researchers](https://community.eelisa.eu/activities/ethos-tekhne-a-new-generation-of-ai-researchers/): EELISA spring school on AI and ethics (July 2022 - Apr 2023)
+-- [Ethos + Tekhnè: a new generation of AI researchers](https://community.eelisa.eu/activities/ethos-tekhne-a-new-generation-of-ai-researchers/): EELISA spring school on AI and ethics (July 2022 - April 2023)
 
--- Feminist and Tech Reading Group (Sept 2021 - May 2022)
+-- Feminist and Tech Reading Group (September 2021 - May 2022)
 
