@@ -8,6 +8,8 @@ permalink: /outreach/
 
 ## Presentations and Programs
 
+-- October 2025: Poster at [AIES 2025](https://www.aies-conference.com/2025/)
+
 -- August 2025: Poster at [EnviroInfo 2025](https://enviroinfo2025.gi.de/)
 
 -- August 2025: Presentation at [TACTIC Retreat](https://tactic.ovgu.de/tactic/en/News/TACTIC+Retreat+_+Summer+School+2025+in+Merseburg-p-68.html)
@@ -35,6 +37,8 @@ permalink: /outreach/
 -- September 2021: Paper presentation at [MEandE-LP](https://sites.google.com/view/meande2021)
 
 ## Event Organization
+
+-- [Digitaler Salon: Watt für'n Prompt](https://www.hiig.de/en/events/digitaler-salon-watt-fuern-prompt/): discussion format at HIIG
 
 -- Feminism + AI: a [workshop](https://aigap.di.unipi.it/event/feminism-ai-a-workshop-by-laura-state/) at AI GAP (Nov 2023)
 
