@@ -6,15 +6,17 @@ permalink: /outreach/
 
 <br />
 
+## Invited Talks
+
+-- August 2025: Invited Talk at [TACTIC Retreat](https://tactic.ovgu.de/tactic/en/News/TACTIC+Retreat+_+Summer+School+2025+in+Merseburg-p-68.html)
+
+-- February 2025: Invited Talk at [Explainable AI Seminar @ Imperial](https://xaiseminars.doc.ic.ac.uk/)
+
 ## Presentations and Programs
 
 -- October 2025: Poster at [AIES 2025](https://www.aies-conference.com/2025/)
 
 -- August 2025: Poster at [EnviroInfo 2025](https://enviroinfo2025.gi.de/)
-
--- August 2025: Presentation at [TACTIC Retreat](https://tactic.ovgu.de/tactic/en/News/TACTIC+Retreat+_+Summer+School+2025+in+Merseburg-p-68.html)
-
--- February 2025: Presentation at [Explainable AI Seminar @ Imperial](https://xaiseminars.doc.ic.ac.uk/)
 
 -- October 2023: Poster at [Alice & Eve 2023](https://alice-and-eve.github.io/2023/)
 
@@ -22,7 +24,7 @@ permalink: /outreach/
 
 -- July 2023: Paper presentation at [xAI 2023](https://xaiworldconference.com/2023/)
 
--- July 2023: [OII Summer Doctoral Programme](https://www.oii.ox.ac.uk/study/summer-doctoral-programme/)
+-- July 2023: [Oxford Internet Institute Summer Doctoral Programme](https://www.oii.ox.ac.uk/study/summer-doctoral-programme/)
 
 -- June 2023: Paper presentation at [EWAF'23](https://sites.google.com/view/ewaf23/home)
 
