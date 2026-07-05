@@ -38,6 +38,10 @@ permalink: /outreach/
 
 -- September 2021: Paper presentation at [MEandE-LP](https://sites.google.com/view/meande2021)
 
+## Articles
+
+-- [KI zwischen Klimawandel und Klimaschutz](https://libmod.de/ki-zwischen-klimawandel-und-klimaschutz/): article at Zentrum Liberale Moderne
+
 ## Event Organization
 
 -- [Digitaler Salon: Watt für'n Prompt](https://www.hiig.de/en/events/digitaler-salon-watt-fuern-prompt/): discussion format at HIIG (October 2025)
