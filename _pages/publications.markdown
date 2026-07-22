@@ -36,7 +36,7 @@ Machine Learning, 2022.
 ## Conference/Workshop
 
 **From Explaining to Diagnosing: A Justice-Oriented Framework of Explainable AI for Bias Detection** [[pdf](https://ojs.aaai.org/index.php/AIES/article/view/36597)] <br>
-Miriam Fahimi*, Laura State*, Atoosa Kasirzadeh (*shared first authorship)
+Miriam Fahimi\*, Laura State\*, Atoosa Kasirzadeh (*shared first authorship)
 
 Artificial Intelligence, Ethics, and Society (AIES) 2025.
 
