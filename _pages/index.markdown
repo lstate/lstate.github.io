@@ -22,6 +22,6 @@ I am currently a Postdoctoral Researcher in the [Impact AI](https://www.hiig.de/
 
 I also engage in outreach activities, such as the co-organization of the AI GAP Event Series or the Ethos + Tekhnè Program, and wrote a non-scientific article on AI and its impact on the climate.
 
-Feel free to contact me via [email](mailto:laura.state@di.unipi.it)
+Feel free to contact me via [email](mailto:lstate@hiig.de)
 or on
 [linkedin](https://linkedin.com/in/laura-state).
