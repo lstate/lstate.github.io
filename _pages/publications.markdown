@@ -42,27 +42,27 @@ Artificial Intelligence, Ethics, and Society (AIES) 2025.
 **Reason to Explain: Interactive contrastive explanations (REASONX)** [[pdf](https://arxiv.org/abs/2305.18143)] <br>
 Laura State, Salvatore Ruggieri, Franco Turini
 
-The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023).
+The 1st World Conference on eXplainable Artificial Intelligence (xAI) 2023.
 
 **Explainability in Practice: Estimating Electrification Rates from Mobile Phone Data in Senegal** [[pdf](https://arxiv.org/abs/2211.06277)] <br>
 Laura State, Hadrien Salat, Stefania Rubrichi, Zbigniew Smoreda
 
-The 1st World Conference on eXplainable Artificial Intelligence (xAI 2023). <br>
+The 1st World Conference on eXplainable Artificial Intelligence (xAI) 2023. <br>
 
 **Declarative Reasoning on Explanations Using Constraint Logic Programming** [[pdf](http://export.arxiv.org/abs/2309.00422)] <br>
 Laura State, Salvatore Ruggieri, Franco Turini
 
-Short paper. European Conference on Logics in Artificial Intelligence (JELIA 2023).
+Short paper. European Conference on Logics in Artificial Intelligence (JELIA) 2023.
 
 **Can We Trust Fair-AI?** [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/26798)] <br>
 Salvatore Ruggieri, Jose M. Alvarez, Andrea Pugnana, Laura State, Franco Turini
 
-Senior Member Track. AAAI-2023.
+Senior Member Track. AAAI Conference on Artificial Intelligence (AAAI) 2023.
 
 ## PhD and master thesis
 
 **Explainability requirements and a declarative explanation tool: an integrated approach** [[pdf](https://ricerca.sns.it/handle/11384/157599)] <br>
-PhD thesis (2024).
+PhD thesis, 2024.
 
 **Training Delays in Spiking Neural Networks** [[pdf](https://www.mis.mpg.de/publications/preprints/2019/prepr2019-96.html)] <br>
-Master thesis (2019).
+Master thesis, 2019.
