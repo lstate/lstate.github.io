@@ -6,11 +6,15 @@ permalink: /outreach/
 
 <br />
 
+Below you find a list of selected (academic and non-academic) outreach activites.
+
 ## Invited Talks
 
--- August 2025: Invited Talk at [TACTIC Retreat](https://tactic.ovgu.de/tactic/en/News/TACTIC+Retreat+_+Summer+School+2025+in+Merseburg-p-68.html)
+-- November 2025: Invited Talk at [Umweltbeobachtungskonferenz (Bern, CH)](https://www.bafu.admin.ch/de/ubk25)
 
--- February 2025: Invited Talk at [Explainable AI Seminar @ Imperial](https://xaiseminars.doc.ic.ac.uk/)
+-- August 2025: Invited Talk at [TACTIC Retreat (Merseburg, GER)](https://tactic.ovgu.de/tactic/en/News/TACTIC+Retreat+_+Summer+School+2025+in+Merseburg-p-68.html)
+
+-- February 2025: Invited Talk at [Explainable AI Seminar @ Imperial (online)](https://xaiseminars.doc.ic.ac.uk/)
 
 ## Presentations and Programs
 
@@ -40,7 +44,7 @@ permalink: /outreach/
 
 ## Articles
 
--- [KI zwischen Klimawandel und Klimaschutz](https://libmod.de/ki-zwischen-klimawandel-und-klimaschutz/): article at Zentrum Liberale Moderne
+-- [KI zwischen Klimawandel und Klimaschutz](https://libmod.de/ki-zwischen-klimawandel-und-klimaschutz/): article at Zentrum Liberale Moderne, also available in English at [Digital Society Blog](https://www.hiig.de/en/ai-between-climate-change-and-climate-protection/)
 
 ## Event Organization
 
