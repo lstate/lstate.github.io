@@ -25,7 +25,7 @@ Artificial Intelligence and Law, 2025.
 **Policy advice and best practices on bias and fairness in AI** [[pdf](https://link.springer.com/article/10.1007/s10676-024-09746-w)] <br>
 Jose M. Alvarez, Alejandra Bringas-Colmenarejo, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri
 
--- Ethics and Information Technology, 2024. <br>
+Ethics and Information Technology, 2024. <br>
 
 **Explaining Short Text Classification with Diverse Synthetic Exemplars and Counter-Exemplars** [[pdf](https://link.springer.com/article/10.1007/s10994-022-06150-7)] <br>
 Orestis Lampridis, Laura State, Riccardo Guidotti, Salvatore Ruggieri
@@ -62,7 +62,7 @@ Senior Member Track. AAAI-2023.
 ## PhD and master thesis
 
 **Explainability requirements and a declarative explanation tool: an integrated approach** [[pdf](https://ricerca.sns.it/handle/11384/157599)] <br>
-My PhD thesis.
+PhD thesis (2024).
 
 **Training Delays in Spiking Neural Networks** [[pdf](https://www.mis.mpg.de/publications/preprints/2019/prepr2019-96.html)] <br>
-My master thesis.
+Master thesis (2019).
