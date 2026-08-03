@@ -44,7 +44,7 @@ Below you find a list of selected (academic and non-academic) outreach activites
 
 ## Articles
 
--- [KI zwischen Klimawandel und Klimaschutz](https://libmod.de/ki-zwischen-klimawandel-und-klimaschutz/): article at Zentrum Liberale Moderne, also available in English at [Digital Society Blog](https://www.hiig.de/en/ai-between-climate-change-and-climate-protection/)
+-- [KI zwischen Klimawandel und Klimaschutz](https://libmod.de/ki-zwischen-klimawandel-und-klimaschutz/): article at Zentrum Liberale Moderne (2026), also available in English at [Digital Society Blog](https://www.hiig.de/en/ai-between-climate-change-and-climate-protection/)
 
 ## Event Organization
 
