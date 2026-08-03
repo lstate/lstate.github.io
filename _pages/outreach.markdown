@@ -10,11 +10,11 @@ Below you find a list of selected (academic and non-academic) outreach activites
 
 ## Invited Talks
 
--- November 2025: Invited Talk at [Umweltbeobachtungskonferenz (Bern, CH)](https://www.bafu.admin.ch/de/ubk25)
+-- November 2025: Invited Talk at [Umweltbeobachtungskonferenz](https://www.bafu.admin.ch/de/ubk25)
 
--- August 2025: Invited Talk at [TACTIC Retreat (Merseburg, GER)](https://tactic.ovgu.de/tactic/en/News/TACTIC+Retreat+_+Summer+School+2025+in+Merseburg-p-68.html)
+-- August 2025: Invited Talk at [TACTIC Retreat](https://tactic.ovgu.de/tactic/en/News/TACTIC+Retreat+_+Summer+School+2025+in+Merseburg-p-68.html)
 
--- February 2025: Invited Talk at [Explainable AI Seminar @ Imperial (online)](https://xaiseminars.doc.ic.ac.uk/)
+-- February 2025: Invited Talk at [Explainable AI Seminar @ Imperial](https://xaiseminars.doc.ic.ac.uk/)
 
 ## Presentations and Programs
 
@@ -48,13 +48,13 @@ Below you find a list of selected (academic and non-academic) outreach activites
 
 ## Event Organization
 
--- [Digitaler Salon: Watt für'n Prompt](https://www.hiig.de/en/events/digitaler-salon-watt-fuern-prompt/): discussion format at HIIG (October 2025)
+-- [Digitaler Salon: Watt für'n Prompt](https://www.hiig.de/en/events/digitaler-salon-watt-fuern-prompt/): discussion format at HIIG (2025)
 
--- Feminism + AI: a [workshop](https://aigap.di.unipi.it/event/feminism-ai-a-workshop-by-laura-state/) at AI GAP (November 2023)
+-- Feminism + AI: a [workshop](https://aigap.di.unipi.it/event/feminism-ai-a-workshop-by-laura-state/) at AI GAP (2023)
 
--- [AI GAP](http://aigap.di.unipi.it/): series of three events on AI and algorithmic biases (October 2022 - February 2024)
+-- [AI GAP](http://aigap.di.unipi.it/): series of three events on AI and algorithmic biases (2022 - 2024)
 
--- [Ethos + Tekhnè: a new generation of AI researchers](https://community.eelisa.eu/activities/ethos-tekhne-a-new-generation-of-ai-researchers/): EELISA spring school on AI and ethics (July 2022 - April 2023)
+-- [Ethos + Tekhnè: a new generation of AI researchers](https://community.eelisa.eu/activities/ethos-tekhne-a-new-generation-of-ai-researchers/): EELISA spring school on AI and ethics (2022 - 2023)
 
--- Feminist and Tech Reading Group (September 2021 - May 2022)
+-- Feminist and Tech Reading Group (2021 - 2022)
 
