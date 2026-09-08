@@ -34,6 +34,11 @@ Machine Learning, 2022.
 
 ## Conference/Workshop (selected)
 
+**The AIMS-Templates: Documenting the multidimensional sustainability of AI systems** (to appear) <br>
+Laura State, Theresa Zueger, Lena Winter
+
+ACM 6th International Conference on Information Technology for Social Good (GoodIT 26).
+
 **From Explaining to Diagnosing: A Justice-Oriented Framework of Explainable AI for Bias Detection** [[pdf](https://ojs.aaai.org/index.php/AIES/article/view/36597)] <br>
 Miriam Fahimi\*, Laura State\*, Atoosa Kasirzadeh (*shared first authorship)
 
