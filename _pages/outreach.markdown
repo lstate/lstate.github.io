@@ -18,6 +18,8 @@ Below you find a list of selected (academic and non-academic) outreach activites
 
 ## Presentations and Programs
 
+-- September 2026: Paper presentation at [GoodIT 2026](https://goodit2026.di.unipi.it/)
+
 -- October 2025: Poster at [AIES 2025](https://www.aies-conference.com/2025/)
 
 -- August 2025: Poster at [EnviroInfo 2025](https://enviroinfo2025.gi.de/)
