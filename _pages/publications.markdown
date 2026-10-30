@@ -6,7 +6,7 @@ permalink: /publications/
 
 <br />
 
-My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de), [research gate](https://www.researchgate.net/profile/Laura-State), [orcid](https://orcid.org/0000-0001-8084-5297) and [dblp](https://dblp.uni-trier.de/pid/248/5723.html) listings. 
+My [google scholar](https://scholar.google.de/citations?user=6h4JHq4AAAAJ&hl=de), [research gate](https://www.researchgate.net/profile/Laura-State) (more accurate citation count of older work), [orcid](https://orcid.org/0000-0001-8084-5297) and [dblp](https://dblp.uni-trier.de/pid/248/5723.html) listings. 
 I host code on [github](https://github.com/lstate).
 
 
@@ -34,7 +34,7 @@ Machine Learning, 2022.
 
 ## Conference/Workshop (selected)
 
-**The AIMS-Templates: Documenting the multidimensional sustainability of AI systems** (to appear) <br>
+**The AIMS-Templates: Documenting the multidimensional sustainability of AI systems** [[pdf](https://dl.acm.org/doi/10.1145/3794786.3830766)] <br>
 Laura State, Theresa Zueger, Lena Winter
 
 International Conference on Information Technology for Social Good (GoodIT) 2026.
