@@ -13,7 +13,7 @@ permalink: /
 Laura State
 </div>
 
-*How can we build a more sustainable and just future for everyone, and which role should AI play in it?*
+*How can we build AI that is beneficial for society and the environment?*
 
 I studied physics and neural information processing to learn about complex systems. I then turned to applied research to better understand how we can build algorithmic systems that embed the values we want as societies.
 As a postdoctoral researcher, I am continuing this work and asking: How are AI systems impacting society and the environment, and how do such impacts relate to each other?
