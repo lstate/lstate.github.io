@@ -19,10 +19,10 @@ I studied physics and neural information processing to learn about complex syste
 As a postdoctoral researcher, I am continuing this work and asking: How are AI systems impacting society and the environment, and how do such impacts relate to each other?
 My research has a strong interdisciplinary character, drawing on my education in the hard sciences and experience in both academia and industry.
 
-I am currently a Postdoctoral Researcher in the [Impact AI](https://www.hiig.de/en/project/impact-ai/) project at the Alexander von Humboldt Institute for Internet and Society. I hold a PhD in Data Science from Scuola Normale Superiore and also worked as an Early Stage Researcher in the Marie Skłodowska-Curie ITN [NoBIAS](https://nobias-project.eu). I obtained my MSc in Neural Information Processing from the University of Tuebingen and concluded it with a thesis at the Max Planck Institute for Mathematics in the Sciences, and my BSc in Physics from the University of Rostock.
+I am currently a Postdoctoral Researcher in the [Impact AI](https://www.hiig.de/en/project/impact-ai/) project at the Alexander von Humboldt Institute for Internet and Society. I hold a PhD in Data Science from Scuola Normale Superiore and also worked as an Early Stage Researcher in the Marie Skłodowska-Curie ITN [NoBIAS](https://cordis.europa.eu/project/id/860630). I obtained my MSc in Neural Information Processing from the University of Tuebingen and concluded it with a thesis at the Max Planck Institute for Mathematics in the Sciences, and my BSc in Physics from the University of Rostock.
 
-I also engage in outreach activities, such as the co-organization of the AI GAP Event Series or the Ethos + Tekhnè Program, and wrote a non-scientific article on AI and its impact on the climate.
+I also engage in outreach activities, such as the co-organization of the AI GAP Event Series or the Ethos + Tekhne Program, and wrote a non-scientific article on AI and its impact on the climate.
 
-Feel free to contact me via [email](mailto:laura.state@hiig.de)
+Feel free to contact me via [email](mailto:lstate@posteo.de)
 or on
 [linkedin](https://linkedin.com/in/laura-state).
