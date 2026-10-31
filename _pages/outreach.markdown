@@ -54,7 +54,7 @@ Below you find a list of selected (academic and non-academic) outreach activitie
 
 -- [AI GAP](http://aigap.di.unipi.it/): series of three events on AI and algorithmic biases (2022 - 2024)
 
--- [Ethos + Tekhnè: a new generation of AI researchers](https://community.eelisa.eu/activities/ethos-tekhne-a-new-generation-of-ai-researchers/): EELISA spring school on AI and ethics (2022 - 2023)
+-- [Ethos + Tekhne: a new generation of AI researchers](https://community.eelisa.eu/activities/ethos-tekhne-a-new-generation-of-ai-researchers/): EELISA spring school on AI and ethics, turned into a program (2022 - 2023)
 
 -- Feminist and Tech Reading Group (2021 - 2022)
 
